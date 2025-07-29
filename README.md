@@ -2,13 +2,13 @@
 
 This repo outlines the torque calculations required for the servo motors of a 3-axis robotic arm designed to lift a 1 kg object. It also explores the feasibility of lifting a 2 kg object.
 
-### Robotic Arm Configuration
+### Robot Arm Configuration
 
 The arm consists of three primary joints, and the calculations are based on the moment the arm is fully extended horizontally, as this is when the maximum torque is required.
 
 <img width="480" height="436" alt="Diagram of the robotic arm showing link lengths" src="https://github.com/user-attachments/assets/2aff720d-61df-4965-b504-38c25e02bf18"/>
 
-### Assumptions and Formula
+### Formulas
 
 *   **Load Mass:** 1 kg
 *   **Gravitational Acceleration (g):** 9.8 m/s²
