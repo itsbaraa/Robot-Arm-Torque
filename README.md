@@ -88,5 +88,5 @@ The selected motors (DS3235 and DS3218) can no longer handle this load directly.
 #### Alternative Solutions
 
 1.  **Use Stronger Motors:** The most straightforward solution is to select motors rated for the higher (2 kg) load requirement from the start.
-2.  **Use Mechanical Assists:** Integrating springs or counterweights into the design can help balance the load, reducing the continuous torque the motors must provide.
-3.  **Optimize Arm Design:** Shortening the link lengths (the "radius" in the calculation) would proportionally reduce the torque required from the motors.
+2.  **Use Mechanical Assists:** Integrating springs or counterweights into the design can help balance the load, reducing the required torque.
+3.  **Optimize Arm Design:** Shortening the link lengths would proportionally reduce the torque required from the motors.
