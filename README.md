@@ -50,11 +50,11 @@ This motor supports the load at the wrist.
 
 It is crucial to select motors with a stall torque higher than the calculated requirement to ensure reliability and prevent burnout.
 
-| Joint            | Required Torque | Selected Motor | Rated Torque | Status    |
-| ---------------- | :-------------: | :------------: | :----------: | --------- |
-| **1 (Shoulder)** |  ~29.0 kg.cm    |    **DS3235**  |  33 kg.cm    | ✅ Suitable |
-| **2 (Elbow)**    |  ~14.0 kg.cm    |    **DS3218**  |  18 kg.cm    | ✅ Suitable |
-| **3 (Wrist)**    |  ~4.0 kg.cm     |     **R10**    |  8 kg.cm     | ✅ Suitable |
+| Joint            | Required Torque | Selected Motor | Rated Torque |
+| ---------------- | :-------------: | :------------: | :----------: |
+| **1 (Shoulder)** |  ~29.0 kg.cm    |    **DS3235**  |  33 kg.cm    |
+| **2 (Elbow)**    |  ~14.0 kg.cm    |    **DS3218**  |  18 kg.cm    |
+| **3 (Wrist)**    |  ~4.0 kg.cm     |     **R10**    |  8 kg.cm     |
 
 *   **DS3235 Servo:** [Product Link](https://aliexpress.com/item/1005006896092860.html)
 *   **DS3218 Servo:** [Product Link](https://aliexpress.com/item/1005006896092860.html)
