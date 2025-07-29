@@ -1,4 +1,4 @@
-# Robotic Arm Servo Torque Analysis
+# Robot Arm Torque Analysis
 
 This repo outlines the torque calculations required for the servo motors of a 3-axis robotic arm designed to lift a 1 kg object. It also explores the feasibility of lifting a 2 kg object.
 
